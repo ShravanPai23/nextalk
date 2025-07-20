@@ -1,0 +1,19 @@
+@media only screen and (max-width: 768px) {
+  .right-container {
+    width: 65% !important;
+  }
+
+  .right-container,
+  .right-container * {
+    font-size: 13px !important;
+    padding: 2px !important;
+    line-height: 2 !important;
+  }
+
+  .left-container,
+  .left-container * {
+    font-size: 13px !important;
+    padding: 1px !important;
+    line-height: 1 !important;
+  }
+}
